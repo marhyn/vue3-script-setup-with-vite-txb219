@@ -2,7 +2,6 @@
 import { TopolEditor, TopolPlugin } from '@topol.io/editor-vue'
 
 const topolOptions = {
-  id: '#app',
   authorize: {
     apiKey: 'd4U1ZDySMKUfF8wKPcyN2pwo9WFxvAFNWiBp51x09so8RHFc7mnynzYU344H',
     userId: 'userId'

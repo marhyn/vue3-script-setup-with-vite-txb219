@@ -1,5 +1,5 @@
 <template>
-  <div id="vueApp">
+  <div id="app">
     <TopolEditor />
   </div>
 </template>
